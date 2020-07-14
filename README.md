@@ -4,8 +4,6 @@ Smart Queuing System built with Python and Intel OpenVino.  The performance of t
 
 # Project Overview
 
-
-
 # Main Tasks
   1. Propose a possible hardware solution
   2. Build out your application and test its performance on the DevCloud using multiple hardware types
@@ -18,6 +16,19 @@ Smart Queuing System built with Python and Intel OpenVino.  The performance of t
 * Scenario 1: Manufacturing Sector
 * Scenario 2: Retail Sector
 * Scenario 3: Transportation Sector
+
+## Manufacturing Sector
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/SMART-QUEUING-SYSTEM/master/manufacturing_cpu.jpg)
+
+## Retail Sector
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/SMART-QUEUING-SYSTEM/master/retail_cpu.jpg)
+
+## Transportation Sector
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/SMART-QUEUING-SYSTEM/master/transportation_cpu.jpg)
+
 
 # Hardware Proposal
 All of the scenarios involve people in queues, but each scenario will require different hardware. So your first task will be to determine which hardware might work for each scenario—and then explain your initial choice in a proposal document (see below).

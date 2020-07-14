@@ -97,8 +97,8 @@ They monitor the entire situation with 7 CCTV cameras on the platform. These are
 
   * <strong>Step 1: Create the Python Script.</strong>
   * <strong>Step 2: Create the job submission.</strong>
-  * <strong>3: Manufacturing scenario.</strong>
-  * <strong>4: Retail scenario.</strong>
-  * <strong>5: Transportation scenario.</strong>
+  * <strong>Step 3: Manufacturing scenario.</strong>
+  * <strong>Step 4: Retail scenario.</strong>
+  * <strong>Step 5: Transportation scenario.</strong>
   
 # Author: Andrés R. Bucheli.

@@ -1,6 +1,6 @@
 # SMART-QUEUING-SYSTEM
 
-Smart Queuing System built with Python and Intel OpenVino.  The performance of the system can be tested on the Intel DevCloud using multiple hardware types
+This is a Smart Queuing System built with Python and Intel OpenVino.  The performance of the system can be tested on the Intel DevCloud using multiple hardware types
 
 # Project Overview
 
